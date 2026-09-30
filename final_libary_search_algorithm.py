@@ -6,7 +6,7 @@ Data Structures Assignment - Streamlit Web Application
 Data Structure Used : List of Dictionaries
 Search Technique     : Linear Search (case-insensitive)
 
-Author : Steffi
+Author : Monisha
 """
 
 import streamlit as st
